@@ -1,3 +1,10 @@
+ltrace  ./ch1.bin
+http://ltrace.alioth.debian.org/
+
+strcmp("X", "123456789")
+
+OR:
+
 http://x86.renejeschke.de/html/file_module_x86_id_146.html
 http://lida.sourceforge.net/
 https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers
