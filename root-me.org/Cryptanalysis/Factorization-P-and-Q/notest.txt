@@ -1,0 +1,13 @@
+openssl rsa -pubin -in pubkey.pem  -text
+
+ 00:c2:cb:b2:4f:db:f9:23:b6:12:68:e3:f1:1a:38:
+    96:de:45:74:b3:ba:58:73:0c:bd:65:29:38:86:4e:
+    22:23:ee:eb:70:4a:17:cf:d0:8d:16:b4:68:91:a6:
+    14:74:75:99:39:c6:e4:9a:af:e7:f2:59:55:48:c7:
+    4c:1d:7f:b8:d2:4c:d1:5c:b2:3b:4c:d0:a3
+
+
+n.txt
+n=p*q
+
+

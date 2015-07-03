@@ -1,0 +1,17 @@
+http://x86.renejeschke.de/html/file_module_x86_id_146.html
+http://lida.sourceforge.net/
+https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers
+
+objdump -D ch1.bin > dump.txt
+
+0804869d <main>:
+
+8048707:
+
+75 15 jne <short> -> 74 15 = je <short>
+8b 45 f8  
+89 44 24 04  
+
+@00000707: 75 -> 74
+
+Bien joue, vous pouvez valider l'epreuve avec le pass : 123456789!

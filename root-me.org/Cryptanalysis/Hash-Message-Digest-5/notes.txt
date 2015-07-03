@@ -1,0 +1,11 @@
+Identifiez le format de ce condensat et cassez le :
+7ecc19e1a0be36ba2c6f05d06b5d3058
+
+https://crackstation.net/
+or:
+john --format=raw-MD5 hash.txt
+or:
+http://code.google.com/p/lnxg33k/downloads/detail?name=icrack.py
+
+result: 
+weak
