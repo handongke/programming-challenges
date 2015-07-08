@@ -1,0 +1,9 @@
+#!/bin/sh
+
+gcc ch4-gen.c -o  ch4-gen -lcrypt
+
+./ch4-gen > hashes
+
+ln -s ~/ch4
+
+python cracker.py
