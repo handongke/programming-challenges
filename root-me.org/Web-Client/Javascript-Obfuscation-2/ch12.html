@@ -1,0 +1,24 @@
+<html>
+
+<head>
+	<title>Obfuscation JS</title>
+<!-- 
+Obfuscation 
+.Niveau : Facile 
+.By Hel0ck
+.The mission : 
+	Retrouver le password contenu dans la var pass.
+	You need my help ? IRC : irc.root-me.org #root-me
+-->
+<script type="text/javascript">
+	var pass = unescape("unescape%28%22String.fromCharCode%2528104%252C68%252C117%252C102%252C106%252C100%252C107%252C105%252C49%252C53%252C54%2529%22%29");
+
+	// solution:
+	pass = unescape(pass);
+	eval('pass='+pass);
+	eval('pass='+pass);
+    	alert(pass);
+</script>
+</head>
+
+</html>
