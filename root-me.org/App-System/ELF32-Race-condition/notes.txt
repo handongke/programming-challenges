@@ -1,0 +1,2 @@
+Either create writable file /tmp/tmp_file.txt
+or watch for file creation using python watcher,
